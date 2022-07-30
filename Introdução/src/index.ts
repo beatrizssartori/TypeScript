@@ -1,8 +1,15 @@
-//1- Começa com "npm i -g typescript no terminal"
-//2- "tsc -v para visualizar a versão"
-//3- "tsc --init para abrir o tsconfig.json"
-//4- Em tsconfig.json, teremos que mudar o rootDir, o outDir e o target
-//5- "tsc --w" para compilação automática
+/* Módulo: Front-End II 
+Curso: Desenvolvedor Full Stack Jr.
+Mentor: Gabriel Lennon
+Aluna: Beatriz Sartori */
+
+
+/* Passo a passo:
+1- Começa com "npm i -g typescript no terminal"
+2- "tsc -v para visualizar a versão"
+3- "tsc --init para abrir o tsconfig.json"
+4- Em tsconfig.json, teremos que mudar o rootDir, o outDir e o target
+5- "tsc --w" para compilação automática */
 
 let y: number = 10;
 
